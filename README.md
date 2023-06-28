@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @befekadu2023
+- 👋 Hi, I’m Befekadu Taddesse WOLDEGIORGIS
 - 👀 I’m interested in hydro-biogeochemical model development and applications.
 - 💞️ I’m looking to collaborate on probabilistic quantification of the contribution of different sources to nutrient export in agricultural watersheds.
 - 📫 How to reach me via email: befekadu.woldegiorgis@umanitoba.ca.
